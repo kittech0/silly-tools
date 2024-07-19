@@ -1,0 +1,7 @@
+.direnv/
+target/
+.vscode/
+debug/
+Cargo.lock
+**/*.rs.bk
+*.pdb
